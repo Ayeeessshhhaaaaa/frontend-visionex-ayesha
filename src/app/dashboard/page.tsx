@@ -37,7 +37,7 @@ export default function DashboardPage() {
         <div className="flex flex-col items-center">
           <img src="/logo1.svg" alt="Room.me Logo" className="w-35 mb-6" />
 
-          <h1 className="text-3xl font-semibold mb-2 text-center">Hi there user, welcome to the dashboard!</h1>
+          <h1 className="text-3xl font-semibold mb-2 text-center">Welcome, you’re logged in.</h1>
           <p className="text-[#A0A0A0] text-lg mb-8">
             You're logged in as{" "}
             <span className="text-white font-medium">
